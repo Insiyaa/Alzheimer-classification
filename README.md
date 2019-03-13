@@ -1,4 +1,4 @@
-# MRI Segmentation
+# Alzheimer's Classification
 We are using an Alzheimer's Dataset.<br>
 The work uptil now is done on that dataset. We've been applying various models for the classification purpose. <br>
 The dataset has 4 unbalanced classes namely `MildDemented`, `ModerateDemented`, `NonDemented` & `VeryMildDemented`. <br>
